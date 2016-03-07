@@ -13,7 +13,7 @@ Command | Arguments | Permission | Description
 ---|---|--- | ---
 `!deathcount` | --- | all | Number of deaths so far.
 `!died` | --- | whitelist | TFW 0 HP.
-`!setdeaths` | number 0-99 | whitelist | Set the number of times the player has died.
+`!setdeaths` | number 0-999 | whitelist | Set the number of times the player has died.
 `!song` | --- | all | Returns title and artist of current song.
 
 ####Sounds
