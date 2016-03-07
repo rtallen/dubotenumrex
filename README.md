@@ -12,12 +12,12 @@ Commands begin with an ! and must begin a line of text.
 Command | Arguments | Permission | Description
 ---|---|--- | ---
 `!deathcount` | --- | all | Number of deaths so far.
-`!died` | --- | mods | TFW 0 HP.
-`!setdeaths` | number 0-99 | mods | Set the number of times the player has died.
+`!died` | --- | whitelist | TFW 0 HP.
+`!setdeaths` | number 0-99 | whitelist | Set the number of times the player has died.
 `!song` | --- | all | Returns title and artist of current song.
 
 ####Sounds
-Mods can play sounds.
+Users on the whitelist can play sounds.
 
 Command | Description
 ---|--- 
